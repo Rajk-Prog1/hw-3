@@ -1,5 +1,5 @@
 import pytest
-from tasks.if_else.if_else.py import if_else
+from src.programming_tasks.if_else.if_else import if_else
 
 class IfElse(object):
 
