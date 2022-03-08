@@ -1,7 +1,7 @@
 import pytest
 from src.programming_tasks.if_else.if_else import if_else
 
-class IfElse(object):
+class TestIfElse(object):
 
     def test_1(self):
         assert if_else(3) == "Weird"
