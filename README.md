@@ -18,15 +18,15 @@ Az src/typegame mappában találtok egy typegame nevű fájlt. Ebben feletválas
 
 Ebben a háziban már kódolnotok is kell. 9 feladatot kell megoldanotok (src/programming_tasks/feladatnév/). Minden feladatnak vagy egy leírása egy külön fájlban, illetve egy .py fájlja ahova a megoldásotokat kell írni. Minden esetben egy függvényt kell kiegészítenetek a megfelelő kóddal és aztán bizonyos értékeket visszaadnotok visszatérési értékként. Bármilyen sorrendben haladhattok a feladatokkal. Viszont talán így a legcélszerűbb haladnotok:
 
-1. [Division](src\programming_tasks\division\description.md)
-2. [Airthmetic Operators](src\programming_tasks\arithmetic_operators\description.md)
-3. [If-Else](src\programming_tasks\if_else\description.md)
-4. [Leap Year](src\programming_tasks\leap_year\description.md)
-5. [Loops](src\programming_tasks\loops\description.md)
-6. [Lists](src\programming_tasks\lists\description.md)
-7. [Split-Join](src\programming_tasks\split_join\description.md)
-8. [Print Function](src\programming_tasks\print_function\description.md)
-9. [Nested Lists](src\programming_tasks\nested_lists\description.md)
+1. [Division](src/programming_tasks/division/description.md)
+2. [Airthmetic Operators](src/programming_tasks/arithmetic_operators/description.md)
+3. [If-Else](src/programming_tasks/if_else/description.md)
+4. [Leap Year](src/programming_tasks/leap_year/description.md)
+5. [Loops](src/programming_tasks/loops/description.md)
+6. [Lists](src/programming_tasks/lists/description.md)
+7. [Split-Join](src/programming_tasks/split_join/description.md)
+8. [Print Function](src/programming_tasks/print_function/description.md)
+9. [Nested Lists](src/programming_tasks/nested_lists/description.md)
 
 Itt is minden feladat esetében kaptok autómatikus visszajelzést amikor feltöltitek őket. Viszont emellett nyugodtan keressetek mindket bármilyen kérdéssel.
 
