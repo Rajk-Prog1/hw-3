@@ -9,11 +9,11 @@ Given an integer, **n**, perform the following conditional actions:
 
 # Input Format
 
-A single line containing a positive integer, **n**.
+A single positive integer, **n**.
 
 # Constraints
 
-1 <= **n** >= 100
+1 <= **n** <= 100
 
 # Output Format
 
